@@ -686,6 +686,22 @@ fieldset[disabled] .btn-primary.active {
 /*  5 - HEADER
 /*-----------------------------------------------------------------------------------*/
 
+.sectionvideo{
+    position: relative;
+}
+
+.content {
+   position: absolute;
+   z-index: 99;
+   top: 195px;
+}
+ 
+.maclasse {
+   padding: 0 ;
+   margin: 0;
+}
+
+
 #headerwrap {
     background-color: #f3f3f3;
     overflow: hidden
